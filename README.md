@@ -8,10 +8,11 @@ performance, and sales channel trends across 1,999 transactions.
 ## Background
 
 Marketing teams often have data across campaigns, channels, and 
-demographics but no single view that connects them. This dashboard 
-was built to answer the questions that matter operationally: which 
-channels are actually converting, which campaigns moved the needle, 
-and where customer retention is strongest.
+demographics but no single view that connects them. Coming from a 
+background in digital marketing and analytics, I built this to answer 
+the questions that matter operationally: which channels are actually 
+converting, which campaigns moved the needle, and where customer 
+retention is strongest.
 
 ---
 
@@ -29,7 +30,7 @@ and where customer retention is strongest.
 January 2013 peaked at $3.1K but dropped to $900 by March before 
 recovering. This kind of volatility suggests campaign timing drives 
 purchasing more than organic demand, meaning revenue is heavily 
-dependent on when campaigns run.
+dependent on when campaigns run rather than consistent customer behavior.
 
 **Conversion rate is inconsistent across months**
 Conversion ranged from 0% to 0.38% with no clear upward trend. 
@@ -41,7 +42,7 @@ or pricing issue.
 Average tenure sits around 4,200 days with very little movement over 
 the period analyzed. High retention is a good sign but the flatness 
 suggests the customer base is loyal and not growing — acquisition 
-may be the bigger opportunity.
+may be the bigger opportunity than retention investment.
 
 ---
 
@@ -67,3 +68,8 @@ Power BI, Microsoft Excel
 
 Dashboard built from raw marketing data — cleaning, DAX measures, 
 and segmentation logic built from scratch.
+
+---
+
+*Retention without acquisition is a ceiling. The data here makes 
+that case clearly.*
